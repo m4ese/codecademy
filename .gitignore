@@ -1,0 +1,4 @@
+#don't track these types of files
+*/__pycache__
+*.DS_Store
+*.ipynb_checkpoints
